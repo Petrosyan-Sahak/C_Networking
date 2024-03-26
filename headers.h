@@ -39,3 +39,4 @@
 #include <openssl/pem.h>
 #include <openssl/ssl.h>
 #include <openssl/err.h>
+#include <libssh/libssh.h>
